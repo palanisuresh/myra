@@ -1,0 +1,202 @@
+:root{
+
+
+  --theme-pink:#fff4f4;
+  --theme-redHover:#ef3014;
+  --theme-red:#F94328;
+  --theme-black:#000;
+  --theme-black2:#00000080;
+  --theme-black3:#000000d7;
+
+  --theme-background:#fff;
+  --theme-color: #000;
+  --theme-shade-color:#f7f7f7;
+
+  --theme-darkGrey:#3f444c;
+  --theme-borderColor:#dee2e6;
+  --theme-lightgrey:#f3f3f3;
+  --theme-lightborderColor:#f6f7f9;
+  --theme-skleton1:rgba(255,255,255,0);
+  --theme-skleton2:rgba(255,255,255,0.6);
+  --theme-signup-btn:rgb(56, 97, 251);
+  --theme_signin-btn:rgb(239, 242, 245);
+  --theme-all_lang:rgb(166, 176, 195);
+
+  --theme-pinkShadow:0px 0px 5px 1px --theme-pink;
+  --theme-greyShadow: 0 1px 4px --theme-borderColor, 0 1px 4px --theme-borderColor ;
+  --table-background-color: #fff;
+  --currency_btn_border-color:rgb(228, 231, 235);
+  --badge-pill-color:rgb(166, 176, 195);
+
+
+
+  // new variables
+  --theme-body-color:rgb(255, 255, 255);
+  --header-grey-text-color:rgb(88, 102, 126);
+  --header-blue-text-color :#008A00;
+  
+  --white:rgb(255, 255, 255);
+  --footer-background-color:rgb(255,255,255);
+
+
+
+
+  --theme-wrap-gradient-1 : rgb(248, 250, 253) 0%;
+  --theme-wrap-gradient-2 :rgba(248, 250, 253, 0);
+  
+  --home-card-bg :rgb(255, 255, 255);
+  --card-blue-hover-color:rgb(152, 202, 255);
+  --home-card-shadow :rgb(88 102 126 / 8%) 0px 4px 24px, rgb(88 102 126 / 12%) 0px 1px 2px;
+  --shadow-normal: 0px 1px 2px rgba(128,138,157,0.12),0px 8px 32px rgba(128,138,157,0.24);
+
+  --home-btn-color :rgb(239, 242, 245);
+  
+
+  --table-dropmenu-hover:rgb(248, 250, 253);
+  --theme-outline-shadow: rgb(239 242 245) 0px 0px 0px 3px;
+
+  --tags-button-hover-bg:rgb(248, 250, 253);
+  --control-background-color: #fff;
+
+  --light-button-bg-hover:linear-gradient(0deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02)), rgb(239, 242, 245);
+
+  --color-light-neutral-1: #f8fafd;
+  --color-light-neutral-2: #eff2f5;
+    --tooltip_bg_color: #000000;
+  --color-light-neutral-4: #a6b0c3;
+  --color-light-neutral-5: #808a9d;
+  --color-light-neutral-6: #58667e;
+  --color-light-neutral-7: #eff2f5;
+  
+  --color-neutral-2: #eff2f5;
+  --color-neutral-4: #a6b0c3;
+  --color-neutral-5: #808a9d;
+  --color-neutral-6: #58667e;
+
+  --new-btn-green:#128512;
+
+  --text-color-sub: #58667e;
+  --text-color-main: rgb(88, 102, 126);
+
+
+  --bg-color: #fff;
+  --up-color: #008A00;
+  --down-color: #D63139;
+  --border-color: #eff2f5;
+
+  // theme green color
+  --button-color:#008A00; 
+  --color-primary-blue: #008A00;
+  --color-primary-blue-rgba: rgba(3,216,3,0.8);
+  --color-primary-dark-primary:rgb(4,189,4);
+  --home-btn-crypto-active:rgb(241, 251, 241);
+  
+
+  --modal-btn-color:rgb(88, 102, 126);
+  
+  --light-button-bg :rgb(239, 242, 245);
+  --button-colorHover:rgb(36, 68, 212);
+  --beta-button-color:rgb(255, 119, 95);
+  --button-border-color: #cfd6e4;
+  
+
+  --less-more-btn-color:rgb(239, 242, 245);
+  --theme-light-color: #cfd6e4;
+
+  
+
+  --color-primary-black: #000;
+
+
+  --theme-light-blue-color: #e6f0ff;
+  --filter-background:rgb(239, 242, 245);
+  --body-bg-color:linear-gradient(rgb(248, 250, 253) 0%, rgba(248, 250, 253, 0) 413px);
+
+  --control-dropdown-background-color: #eff2f5;
+  --estimate-btn-color:rgb(239, 242, 245);
+  --info-icon-color: #a6b0c3;
+
+  --news-desc-color:rgb(88, 102, 126);
+
+  --table-divider-color: #eff2f5;
+
+   --currency-link:rgb(88, 102, 126);
+  --mainpage-color1:rgb(248, 250, 253);
+  --mainpage-color2:rgba(248, 250, 253, 0);
+  --wishlist-border-color:rgb(207, 214, 228);
+  --tooltip-color:rgb(88, 102, 126);
+
+  --color-light-neutral-4: #a6b0c3;
+  
+  --color-light-neutral-7: #eff2f5;
+  --color-light-neutral-1: #f8fafd;
+  --convert-bg-color:rgb(248, 250, 253);
+  --showmore-btn-color:rgb(239, 242, 245);
+  --chart-btn:rgb(239, 242, 245);
+  --chart-btn-active:rgb(255, 255, 255);
+  --chart-btn-color:#58667e;
+  --news-hover-color:rgb(248, 250, 253);
+  --coin-bg-color:rgb(239, 242, 245);
+  --show-more-btn-hover1:rgba(0, 0, 0, 0.02);
+  --show-more-btn-hover2:rgb(239, 242, 245);
+        // --light-btn-hover:linear-gradient(0deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02)), rgb(239, 242, 245);
+  --days-btn-hover:rgb(248, 250, 253);
+  --control-caret-color: #000;
+  --table-row-hover-background-color: rgb(248,250,253);
+  --control-background-color: #fff;
+  --input-background-color:#fff;
+  --input-border-color:rgb(207, 214, 228);
+  --input-border-color-hover:rgb(166, 176, 195);
+  --input-focus-boxshadow-color:rgb(214, 251, 214);
+  --info-icon-color: #a6b0c3;
+  --modal-close-btn-color:rgb(166, 176, 195);
+  --converter-bg-color:rgb(248, 248, 248);
+  --conveter-title-color:rgb(23, 24, 27);
+  --convert-btn-color:rgb(16, 112, 224);
+  --convert-btn-hover:rgba(16, 112, 224, 0.85);
+  --convert-save-btn-color:rgb(255, 255, 255);
+  --convert-btn-text-color:rgba(23, 24, 27, 0.65);
+  --convert-btn-border-color:rgb(225, 229, 234);
+  --convert-hover-btn-color:rgb(245, 247, 248);
+  --convert-hover-text-color:rgba(23, 24, 27, 0.85);
+  --a-link-hover:rgba(16, 112, 224, 0.85);
+  --convert-dropdown-bg-color:rgb(255, 255, 255);
+  --bread-crumb-bg-color:rgb(248, 248, 248);
+  --color-gradient-end: rgba(248,250,253,0);
+  --dropdown-links-color:rgb(239, 242, 245);
+  --lang-btn-bg-color:rgb(235, 239, 242);
+  --lang-btn-color: rgb(0, 0, 0);
+  --show-rows-color:rgb(88, 102, 126);
+  --diamond-btn-color:#3861fb;
+  --disabled_btn-color:rgb(239, 242, 245);
+  --close-coin-btn:rgb(128, 138, 157);
+  --nodata_box_lineargrad1:rgba(255, 255, 255, 0);
+  --nodata_box_lineargrad2:rgba(255, 255, 255, 0.9);
+  --nodatabox_bg:rgb(255,255,255);
+  --watchlist_btn_color:rgba(0, 0, 0, 0.02);
+  --airdrops_btn_hover:rgb(248, 250, 253);
+  --scroll_btn_color:rgba(23, 24, 27, 0.85);
+  --where_to_buy_theme:rgb(248, 248, 248);
+   --referal_bg_wrapper:rgb(248, 250, 253) 0%, rgba(248, 250, 253, 0) 413px;
+  --referal_diamonds_bg:#f0f6ff;
+  --captcha_slide_btn_color:rgb(245, 245, 245);
+  
+  --auction_background:#F0F6FF;
+  --auction_border:1px solid #B3CBFF;
+  --box-shadow: 0px 0px 2px rgba(128,138,157,0.12),0px 0px 24px rgba(128,138,157,0.14);
+  --color-light-neutral-3: #cfd6e4;
+  --advertise-card-bg:rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.75) 100%;
+  --advertise-card-boxshadow:rgb(128 138 157 / 12%) 0px 1px 2px, rgb(128 138 157 / 24%) 0px 8px 32px;
+  --error_bg_color:#fff0f1;
+  --copy_address_tooltip_bg:#000;
+  --login_to_discuss_bg:rgba(255, 255, 255, 0.65);
+  --color-yellow-bg:#fcfce5;
+  
+
+
+
+
+
+
+
+  }

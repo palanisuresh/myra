@@ -1,0 +1,75 @@
+.column1{
+	background: #ffd9e1;
+}
+.column2{
+    background: #fea7b7;
+}
+.image {
+     height: 400px;
+    width: 600px;
+    position: absolute;
+    left: 40%;
+    margin-left: -150px;
+        border: 5px solid #fff;
+    border-radius: 30px;
+        object-fit: cover;
+        object-position: top;
+}
+.left-sec{
+  height: 400px;
+  position: relative;
+  h4{
+  	transform: rotate(270deg);
+    font-size: 60px;
+    position: absolute;
+    left: 0;
+    bottom: 130px;
+    color:#ffffff96
+  }
+
+}
+
+.right-sec{
+	h4{
+		left: unset;
+		right: 0;
+	}
+}
+
+.image2{
+	width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border: 5px solid pink;
+    border-radius: 30px;
+}
+.offer_sec{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+
+}
+
+.pink{
+	    color: #fda5b4;
+}
+.flex_ctr{
+	display: flex;
+	align-items:center;
+	justify-content:center;
+}
+.brand_sec{
+	    flex-direction: column;
+	    h4{
+	    	    color: #707070;
+	    }
+}
+.image3{
+	width: 100px;
+	margin: 0 30px;
+}
+.brands{
+background: #ffd9e1;
+}

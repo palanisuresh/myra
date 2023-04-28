@@ -1,0 +1,39 @@
+.container-fluid{
+    max-width: 1400px;
+}
+.navbar-nav{
+    width: 50%;
+.nav-item{
+    margin: 0 20px;
+    .nav-link{
+            color: #000;
+                font-size: 14px;
+    }
+}
+}
+
+.header{
+        background: #fff3fe;
+    box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.2);
+}
+.sign_up{
+    background: #ffd9e1;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.flex_strt{
+    display: flex;
+    align-items:center;
+    justify-content:flex-start;
+}
+
+.form-inline{
+        margin-right: 35px;
+}
+
+.search_input{
+    width: 335px;
+    font-size: 14px;
+}
